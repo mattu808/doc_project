@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2019-09-12
+  time: 2019-09-12 11:03:13
+  name: MyString
+  physician: MyString
+  phone: 1
+  notes: MyText
+  patient: one
+  physician: one
+
+two:
+  date: 2019-09-12
+  time: 2019-09-12 11:03:13
+  name: MyString
+  physician: MyString
+  phone: 1
+  notes: MyText
+  patient: two
+  physician: two
